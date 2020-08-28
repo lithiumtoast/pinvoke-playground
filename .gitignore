@@ -2,5 +2,11 @@
 bin/
 obj/
 
+# Zig build artifacts
+zig-cache/
+
+# C build artifacts
+cmake-build-debug/
+
 # JetBrains
 .idea/
